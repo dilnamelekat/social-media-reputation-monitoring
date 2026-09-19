@@ -1,5 +1,4 @@
-# social-media-reputation-monitoring
-Social Media Reputation Monitoring using R, Sentiment Analysis, Bing Lexicon, and R Shiny Dashboard.
+
 # Social Media Reputation Monitoring Using R and Sentiment Analysis
 
 ## 📌 About the Project
